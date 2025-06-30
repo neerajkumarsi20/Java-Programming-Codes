@@ -1,7 +1,6 @@
 ## Java Programming
 
-![Python](https://img.shields.io/badge/Python-Django%20%7C%20NLP%20%7C%20AI-green?logo=python)
-![XAI](https://img.shields.io/badge/Explainable%20AI-Interpretability-blueviolet)
+![Java](https://img.shields.io/badge/Java-UI%20%7C%20Swing%20%7C%20AWT-red?logo=java)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
